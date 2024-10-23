@@ -1,0 +1,10 @@
+C:\Users\manrr\Desktop\Esfera\Esfera\obj\Debug\Esfera.csproj.AssemblyReference.cache
+C:\Users\manrr\Desktop\Esfera\Esfera\obj\Debug\ejemplo.fmrWinMode.resources
+C:\Users\manrr\Desktop\Esfera\Esfera\obj\Debug\Esfera.Properties.Resources.resources
+C:\Users\manrr\Desktop\Esfera\Esfera\obj\Debug\Esfera.csproj.GenerateResource.cache
+C:\Users\manrr\Desktop\Esfera\Esfera\obj\Debug\Esfera.csproj.CoreCompileInputs.cache
+C:\Users\manrr\Desktop\Esfera\Esfera\bin\Debug\Esfera.exe.config
+C:\Users\manrr\Desktop\Esfera\Esfera\bin\Debug\Esfera.exe
+C:\Users\manrr\Desktop\Esfera\Esfera\bin\Debug\Esfera.pdb
+C:\Users\manrr\Desktop\Esfera\Esfera\obj\Debug\Esfera.exe
+C:\Users\manrr\Desktop\Esfera\Esfera\obj\Debug\Esfera.pdb
